@@ -1,1 +1,1 @@
-lead_score_case_study
+Lead_Scoring_Case_Study
